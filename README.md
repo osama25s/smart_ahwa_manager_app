@@ -116,7 +116,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Osama Saad**
 
-- LinkedIn: [Abdelrahman Mohammed](https://www.linkedin.com/in/osama-saad-a9970b250/)
+- LinkedIn: [Osama Saad](https://www.linkedin.com/in/osama-saad-a9970b250/)
 
 ## 🙏 Acknowledgments
 
