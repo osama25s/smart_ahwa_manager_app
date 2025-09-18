@@ -8,7 +8,7 @@ A Flutter application designed for managing customer orders in traditional Egypt
 - **Order Management**: Add customer orders with name, drink type, and special instructions
 - **Pending Orders**: View and manage all pending orders in real-time
 - **Daily Reports**: Generate reports showing top-selling drinks and total orders served
-- 
+  
 ## 🏗️ Architecture
 
 This app demonstrates the implementation of SOLID principles in Flutter:
