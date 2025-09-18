@@ -1,4 +1,3 @@
-# ahwa_app_new
 
 # Smart Ahwa Manager App 🍵
 
